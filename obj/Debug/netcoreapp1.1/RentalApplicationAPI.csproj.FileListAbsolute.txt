@@ -1,0 +1,24 @@
+C:/AMIS/RentalApplicationAPI/bin/Debug/netcoreapp1.1/RentalApplicationAPI.deps.json
+C:/AMIS/RentalApplicationAPI/bin/Debug/netcoreapp1.1/RentalApplicationAPI.runtimeconfig.json
+C:/AMIS/RentalApplicationAPI/bin/Debug/netcoreapp1.1/RentalApplicationAPI.runtimeconfig.dev.json
+C:/AMIS/RentalApplicationAPI/bin/Debug/netcoreapp1.1/RentalApplicationAPI.dll
+C:/AMIS/RentalApplicationAPI/bin/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
+C:/AMIS/RentalApplicationAPI/obj/Debug/netcoreapp1.1/RentalApplicationAPI.AssemblyInfo.cs
+C:/AMIS/RentalApplicationAPI/obj/Debug/netcoreapp1.1/RentalApplicationAPI.dll
+C:/AMIS/RentalApplicationAPI/obj/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/RentalApplicationAPI.deps.json
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/RentalApplicationAPI.runtimeconfig.json
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/RentalApplicationAPI.runtimeconfig.dev.json
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/RentalApplicationAPI.dll
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/bin/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/obj/Debug/netcoreapp1.1/RentalApplicationAPI.AssemblyInfo.cs
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/obj/Debug/netcoreapp1.1/RentalApplicationAPI.dll
+/Users/meganholstein/Google Drive/School - OSU/BUSMHR 3610/Project_Space/API/obj/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/bin/Debug/netcoreapp1.1/RentalApplicationAPI.deps.json
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/bin/Debug/netcoreapp1.1/RentalApplicationAPI.runtimeconfig.json
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/bin/Debug/netcoreapp1.1/RentalApplicationAPI.runtimeconfig.dev.json
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/obj/Debug/netcoreapp1.1/RentalApplicationAPI.AssemblyInfo.cs
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/obj/Debug/netcoreapp1.1/RentalApplicationAPI.dll
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/obj/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/bin/Debug/netcoreapp1.1/RentalApplicationAPI.dll
+/Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/bin/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
