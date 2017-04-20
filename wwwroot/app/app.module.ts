@@ -10,6 +10,7 @@ import { AppRouting } from './app.routing';
 import { NavBarComponent } from './components/navbar/navbar.component'
 import { ContractComponent } from './components/contract/contract.component';
 import { LoginComponent } from './components/login/login.component';
+import { AuthService } from "./auth.service";
 
 @NgModule({
     declarations: [
@@ -28,6 +29,8 @@ import { LoginComponent } from './components/login/login.component';
         AppRouting
     ],
     providers: [  
+        AuthService
+        AuthHttp
     ],
     bootstrap: [
         AppComponent
