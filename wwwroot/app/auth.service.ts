@@ -1,7 +1,6 @@
 import { Injectable, EventEmitter } from "@angular/core";
 import { Http, Headers, Response, RequestOptions } from "@angular/http";
 import { Observable } from "rxjs/Observable";
-
 import { AuthHttp } from "./auth.http";
 
 @Injectable()

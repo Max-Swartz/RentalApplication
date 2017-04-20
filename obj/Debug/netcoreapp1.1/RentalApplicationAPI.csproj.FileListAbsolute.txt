@@ -22,3 +22,11 @@ C:/AMIS/RentalApplicationAPI/obj/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
 /Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/obj/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
 /Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/bin/Debug/netcoreapp1.1/RentalApplicationAPI.dll
 /Users/AmitRubinstein/Documents/3610/RentalApplicationAPI-master/bin/Debug/netcoreapp1.1/RentalApplicationAPI.pdb
+C:\AMIS\RentalApplication\bin\Debug\netcoreapp1.1\RentalApplicationAPI.deps.json
+C:\AMIS\RentalApplication\bin\Debug\netcoreapp1.1\RentalApplicationAPI.runtimeconfig.json
+C:\AMIS\RentalApplication\bin\Debug\netcoreapp1.1\RentalApplicationAPI.runtimeconfig.dev.json
+C:\AMIS\RentalApplication\bin\Debug\netcoreapp1.1\RentalApplicationAPI.dll
+C:\AMIS\RentalApplication\bin\Debug\netcoreapp1.1\RentalApplicationAPI.pdb
+C:\AMIS\RentalApplication\obj\Debug\netcoreapp1.1\RentalApplicationAPI.AssemblyInfo.cs
+C:\AMIS\RentalApplication\obj\Debug\netcoreapp1.1\RentalApplicationAPI.dll
+C:\AMIS\RentalApplication\obj\Debug\netcoreapp1.1\RentalApplicationAPI.pdb

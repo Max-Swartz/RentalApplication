@@ -10,6 +10,10 @@ import { AppRouting } from './app.routing';
 import { NavBarComponent } from './components/navbar/navbar.component'
 import { ContractComponent } from './components/contract/contract.component';
 import { LoginComponent } from './components/login/login.component';
+import { SaleComponent } from './components/sale/sale.component';
+import { RentalComponent } from './components/rental/rental.component';
+import { AuthService } from './auth.service';
+import { AuthHttp } from './auth.http';
 
 @NgModule({
     declarations: [
@@ -17,7 +21,10 @@ import { LoginComponent } from './components/login/login.component';
         HomeComponent,
         NavBarComponent,
         ContractComponent,
-        LoginComponent
+        LoginComponent,
+        RentalComponent,
+        SaleComponent
+
     ],
     imports: [
         BrowserModule,
@@ -28,6 +35,8 @@ import { LoginComponent } from './components/login/login.component';
         AppRouting
     ],
     providers: [  
+        AuthService,
+        AuthHttp
     ],
     bootstrap: [
         AppComponent
